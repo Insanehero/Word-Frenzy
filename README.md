@@ -22,6 +22,6 @@ INSTALL:
 
 1. Download the project to your computer.
 2. Navigate to the folder you downloaded it in and find the server.js file.
-3. With node installed, type 'npm install websocket' to get the required Websocket plugin to run the project.
+3. With node installed, type 'npm install websocket' to get the required node Websocket plugin to run the project.
 4. Then execute the following command in that folder with server.js: 'node server.js'
 5. Now open your browser to http://localhost:8080/ and enjoy the show.
