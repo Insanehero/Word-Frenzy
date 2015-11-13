@@ -1,5 +1,7 @@
 # Word-Frenzy
 
-Used https://www.wordnik.com API.
+NodeJS, Javascript, HTML and CSS were used to create this project.
 
-Visit site at jasonbratt.com/wordfrenzy
+Used https://www.wordnik.com API for generating random words.
+
+Visit site at jasonbratt.com
