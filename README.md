@@ -1,5 +1,5 @@
 # Word-Frenzy
-Single page application typing game.
+Single page application 2-4 player typing game.
 
 **LIVE LINK:** http://jasonbratt.com/wordfrenzy
 
