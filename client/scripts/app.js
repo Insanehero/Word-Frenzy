@@ -35,7 +35,7 @@ window.onload = function() {
       };
     },
     playersListResponse : function(data) {
-      events();
+      watchClick();
       if (players) {
         for (var i = 0; i < players.length; i++) {
           var username = players[i];
@@ -148,7 +148,7 @@ window.onload = function() {
     }
   }
 
-  function events() {
+  function watchClick() {
     $('#ready').on('click', function() {
       $(this).css({
         color: 'rgb(173, 255, 174)',

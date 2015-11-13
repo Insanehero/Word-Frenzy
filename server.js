@@ -1,6 +1,6 @@
 var fs = require('fs');
 //var express = require('express');
-//var app = express();
+//var app = express(); | No longer needed.
 var http = require('http');
 var WebSocketServer = require('websocket').server;
 var path = require('path');

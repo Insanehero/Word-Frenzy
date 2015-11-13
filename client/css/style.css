@@ -114,7 +114,9 @@ h1 {
 
 body {
   font-family: 'News Cycle', sans-serif;
-  background: rgb(194, 194, 194);
+  background: url('http://i.imgur.com/KL9BsKs.jpg');
+  background-size: cover;
+  filter: blur(5px);
 }
 
 .core {
