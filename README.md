@@ -5,7 +5,7 @@ Single page application 2-4 player typing game.
 
 ---
 
-My Process: When I originally started my project, I wanted to do a multiplayer real-time animated game online (like agar.io) however figuring out how to smoothly animate the frames synchronously to each individual client proved to be quite the moonshot for a 3-4 day project. After being already 2 days in with the project and not seeing a near end to the project, I decided to change pace and try a different idea. And that idea is Word Frenzy! A multiplayer speed-typing game, each player receives a mix of random words and the first player to finish typing all the given words wins!
+My Process: When I originally started my project, I wanted to do a multiplayer real-time animated game online (like agar.io) however figuring out how to smoothly animate the frames synchronously to each individual client proved to be quite the moonshot for a 3-4 day project (terrible project scoping). After being already 2 days in with the project and not seeing a near end to the project, I decided to change pace and try a different idea. And that idea is Word Frenzy! A multiplayer speed-typing game, each player receives a mix of random words and the first player to finish typing all the given words wins!
 
 I still hope to finish my first project idea sometime in the near future however.
 
